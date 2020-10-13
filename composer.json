@@ -1,0 +1,23 @@
+{
+    "name": "magepow/magento-2-swatchs-extension",
+    "description": "Magento 2 Swatchs",
+    "type": "magento2-module",
+    "version": "2.1.0",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Magepow",
+            "email": "support@magepow.com",
+            "homepage": "https://www.alothemes.com",
+            "role": "Technical Support"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magepow\\Swatchs\\": ""
+        }
+    }
+}
