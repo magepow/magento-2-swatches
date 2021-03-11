@@ -1,5 +1,5 @@
 {
-    "name": "magepow/magento-2-swatchs-extension",
+    "name": "magepow/swatchs",
     "description": "Magento 2 Swatchs",
     "require": {
         "magepow/core": "^1.0.0"
