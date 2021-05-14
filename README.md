@@ -1,4 +1,4 @@
-# magento-2-swatches
+# magento 2 Swatches
 Magento 2 Swatches changes the default error notice for product views. Instead of showing default error notice, it will show customize notice which suitable for each attribute.
 
 Before you continue, ensure you meet that you have installed Magento2
@@ -17,7 +17,7 @@ php bin/magento setup:static-content:deploy -f
 
 ```
    
-  ### Result
+ ### Result
    
    ![Image of magento store front](https://github.com/magepow/magento-2-swatches/blob/master/media/swatches_result.png)
    
