@@ -1,16 +1,19 @@
 {
-    "name": "magepow/swatchs",
-    "description": "Magento 2 Swatchs",
+    "name": "magepow/swatches",
+    "description": "Magento 2 Swatches",
     "require": {
         "magepow/core": "^1.0.0"
     },
     "type": "magento2-module",
-    "license": "proprietary",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
     "authors": [
         {
             "name": "Magepow",
             "email": "support@magepow.com",
-            "homepage": "https://www.alothemes.com",
+            "homepage": "https://www.magepow.com",
             "role": "Technical Support"
         }
     ],
