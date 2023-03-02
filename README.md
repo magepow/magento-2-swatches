@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 # magento 2 Swatches
 Magento 2 Swatches changes the default error notice for product views. Instead of showing default error notice, it will show customize notice which suitable for each attribute.
 
